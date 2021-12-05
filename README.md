@@ -4,7 +4,7 @@
 
 ## Hello, Jupyter
 ```kt
-  class Greeter(val name: String) {
+  class Greeter(private val name: String) {
       fun greet(): String {
           return "Hello, $name!"
       }
