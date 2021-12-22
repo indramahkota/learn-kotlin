@@ -1,0 +1,15 @@
+{
+    "description": "Multiplatform Kotlin library to convert strings",
+    "properties": {
+      "v": "1.3.0"
+    },
+    "link": "https://github.com/pearxteam/kasechange",
+    "dependencies": [
+      "net.pearx.kasechange:kasechange-jvm:$v"
+    ],
+    "imports": [
+      "net.pearx.kasechange.*",
+       "net.pearx.kasechange.formatter.*",
+       "net.pearx.kasechange.splitter.*"
+    ]
+  }
