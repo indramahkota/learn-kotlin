@@ -1,0 +1,15 @@
+{
+  "description": "Social Style Date and Time Formatting for Java",
+  "properties": {
+    "v": "4.0.4.Final"
+  },
+  "link": "https://github.com/ocpsoft/prettytime",
+  "dependencies": ["org.ocpsoft.prettytime:prettytime:$v"],
+  "imports": [
+    "org.ocpsoft.prettytime.*",
+    "org.ocpsoft.prettytime.format.*",
+    "org.ocpsoft.prettytime.i18n.*",
+    "org.ocpsoft.prettytime.impl.*",
+    "org.ocpsoft.prettytime.units.*"
+  ]
+}

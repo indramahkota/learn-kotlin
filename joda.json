@@ -1,0 +1,17 @@
+{
+  "description": "Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.",
+  "properties": {
+    "v": "2.10.13"
+  },
+  "link": "https://github.com/JodaOrg/joda-time",
+  "dependencies": ["joda-time:joda-time:$v"],
+  "imports": [
+    "org.joda.time.*",
+    "org.joda.time.base.*",
+    "org.joda.time.chrono.*",
+    "org.joda.time.convert.*",
+    "org.joda.time.field.*",
+    "org.joda.time.format.*",
+    "org.joda.time.tz.*"
+  ]
+}
