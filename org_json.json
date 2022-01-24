@@ -1,0 +1,11 @@
+{
+  "description": "A reference implementation of a JSON package in Java.",
+  "properties": {
+    "v": "20211205"
+  },
+  "link": "https://github.com/stleary/JSON-java",
+  "dependencies": ["org.json:json:$v"],
+  "imports": [
+    "org.json.*"
+  ]
+}

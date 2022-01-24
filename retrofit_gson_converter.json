@@ -1,0 +1,11 @@
+{
+  "description": "A Converter which uses Gson for serialization to and from JSON.",
+  "properties": {
+    "v": "2.9.0"
+  },
+  "link": "https://github.com/square/retrofit",
+  "dependencies": ["com.squareup.retrofit2:converter-gson:$v"],
+  "imports": [
+    "retrofit2.converter.gson.*"
+  ]
+}

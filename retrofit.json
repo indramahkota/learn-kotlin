@@ -1,0 +1,13 @@
+{
+  "description": "A type-safe HTTP client for Android and the JVM",
+  "properties": {
+    "v": "2.9.0"
+  },
+  "link": "https://github.com/square/retrofit/tree/master/retrofit-converters/gson",
+  "dependencies": ["com.squareup.retrofit2:retrofit:$v"],
+  "imports": [
+    "retrofit2.*",
+    "retrofit2.http.*",
+    "retrofit2.internal.*"
+  ]
+}
